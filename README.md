@@ -3,7 +3,7 @@
 
 # 📥 Instagram Downloader API (SaveInsta Proxy)
 
-A powerful PHP-based API endpoint that proxies [SaveInsta.to](https://saveinsta.to) to download **Instagram posts, reels, stories, and profiles** — returning clean structured JSON with thumbnails and resolutions.
+A powerful PHP-based API endpoint that proxies [SaveInsta.to](https://saveinsta.to) to download **Instagram posts, reels, stories, and profiles** returning clean structured JSON with thumbnails and resolutions.
 
 > 🔐 No Instagram login, no cookies, no browser automation.
 
@@ -166,14 +166,14 @@ Each media item contains:
 
 * ⚠ Rate-limited by SaveInsta if used heavily
 * 🔄 Tokens (`k_token`, `k_exp`, `cftoken`) can change anytime
-* 🚫 No login/auth API — this is strictly public-facing scraping
+* 🚫 No login/auth API this is strictly public-facing scraping
 * 💥 Instagram may eventually change how link previews work
 
 ---
 
 ## 📜 License
 
-MIT License — Free to use, modify, and share.
+MIT License Free to use, modify, and share.
 
 > Please use ethically and responsibly.
 

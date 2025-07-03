@@ -1,4 +1,6 @@
 
+![Instagram-Downloader](https://github.com/user-attachments/assets/3a718fee-e58f-469e-9e09-80dfc6861ade)
+
 # 📥 Instagram Downloader API (SaveInsta Proxy)
 
 A powerful PHP-based API endpoint that proxies [SaveInsta.to](https://saveinsta.to) to download **Instagram posts, reels, stories, and profiles** — returning clean structured JSON with thumbnails and resolutions.
